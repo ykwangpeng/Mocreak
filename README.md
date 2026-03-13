@@ -8,7 +8,7 @@
 Mocreak is an office enhancement tool that automatically downloads, installs, and deploys genuine Windows and Office with one click. This tool is completely free, ad-free, green, non-toxic, simple, efficient and safe.
 
 ### ✨ Software Features
-- Brand new modern graphical interface. It supports light/dark two-color themes and adapts to languages ​​in multiple countries/regions to help you improve deployment efficiency.
+- Brand new modern graphical interface. Supports light/dark two-color themes and adapts to languages ​​in multiple countries/regions to help you improve deployment efficiency.
 ![Feedback](images/feedback.png)
 - A complete feedback system helps you locate and find problems encountered during deployment, and respond to solutions as soon as possible.
 
